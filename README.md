@@ -1,5 +1,5 @@
 # Data-Visualizer-Streamlit
-A Data Visualizer Dashboard for analyzing data or feature labels for a particular dataset
+A Data Visualizer Dashboard for analyzing data or feature labels for a particular dataset.
 
 ### Programming Language Used:
 <table>
